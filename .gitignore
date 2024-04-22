@@ -1,0 +1,15 @@
+# Ignore Dataset
+datasets/
+
+# Ignore Documents if any
+documents/
+
+
+.ipynb_checkpoints/
+.DS_Store
+.env
+__pycache__/
+
+logs/
+
+sysid-neural-continuous/
